@@ -24,7 +24,7 @@ The dataset was obtained from Kaggle.
 ## Dashboard
 The results are visualized in an interactive dashboard.
 
-**Dashboard Link:** [Provide the dashboard link here]
+**Dashboard Link:** https://lookerstudio.google.com/s/peX9bMthoIU
 
 ### Dashboard Screenshot
 ![Screenshot 2025-03-18 213209](https://github.com/user-attachments/assets/c2b8ee81-76cd-4190-8328-04ecd8d46fa2)
@@ -37,7 +37,7 @@ To run this project locally:
    pip install pandas numpy nltk vaderSentiment matplotlib seaborn
    ```
 3. Run the sentiment analysis script:
-  -python code:        
+  -python code: https://github.com/AVAlogix/Sentiment-Analysis/blob/main/Amazon%20Products%20sentiment%20analysis.ipynb       
 4. Open the dashboard for interactive exploration.
 
 ## Results
