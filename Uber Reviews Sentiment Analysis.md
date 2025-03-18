@@ -35,7 +35,7 @@ This project analyzes **12,000+ Uber app reviews** from the Google Play Store to
 The sentiment distribution showed ~82% Positive, 9% Neutral, and 9% Negative feedback. The sentiment score distribution plot highlights that both VADER and TextBlob classify most reviews as positive, though their scoring methods differ slightly. Using TF-IDF vectorization, we trained Random Forest and XGBoost classifiers to predict sentiment. Random Forest achieved 89.96% accuracy, outperforming XGBoost (87.00%) with a 1.26x lift over baseline accuracy. These findings suggest strong positive sentiment towards Uber, with opportunities for improvement.
 
 ## Notebooks 
-- **Jupyter Notebook**: [Sentiment_Analysis.ipynb](#) *(Update with actual link)*
+- **Jupyter Notebook**: https://github.com/AVAlogix/Sentiment-Analysis/blob/main/Uber%20sentiment%20Analysis.ipynb
 
 ## Next Steps 
 - **Hyperparameter tuning** for model improvement
